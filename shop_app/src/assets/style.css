@@ -1,0 +1,121 @@
+#app .navbar-expand-sm > img {
+    display: block;
+    width: 15%;
+    float: left;
+    padding-top: 2%;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+h2 {
+    text-align: center;
+}
+footer h6 {
+    text-align: center;
+}
+hr {
+    color: grey;
+}
+
+#middle {
+    clear: both;
+    padding-top: 2%;
+}
+#middle > iframe {
+    width: 80%;
+    display: block;
+    margin: auto;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+#gallery > hr {
+    padding-bottom: 2%;
+}	
+#gallery > table {
+    border-collapse: collapse;
+    table-layout: auto;
+    width: 96%;
+    padding: 2%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#gallery > table > tr > th {
+    text-align: center;
+}
+#gallery > table {
+    border-collapse: collapse;
+    table-layout: auto;
+    width: 96%;
+    padding: 2%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.zoom > img {
+    width: 96%;
+    padding: 2%;
+}
+.zoom {
+    width: 33%;
+    overflow: hidden;
+}
+.zoom > img:hover {
+    -ms-transform: scale(1.2); /* IE 9 */
+      -webkit-transform: scale(1.2); /* Safari 3-8 */
+      transform: scale(1.2);
+}
+
+#history {
+    clear: both;
+    padding-top: 2%
+}
+#history > img {
+    display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2%
+}
+#history > p {
+    padding-left: 4%;
+    padding-right: 4%;
+}
+#daymond, #keith, #jalexander, #carl > p  {
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+#products {
+    clear: both;
+    padding-top: 2%;
+}
+#products > h2 {
+    padding-bottom: 2%;
+}
+#products > table {
+    border-collapse: collapse;
+    table-layout: auto;
+    width: 96%;
+    padding: 2%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#products > table > tr > td > img {
+    display: block;
+    width: 96%;
+    padding: 2%;
+}
+#products > table > tr > th, td {
+    text-align: center;
+}
+#products .button{
+    text-align: center;
+}
+#products .button:hover {
+    text-align: center;
+    background-color: #66CDAA;
+    font-weight: bold;
+}
